@@ -5,7 +5,7 @@
 - Perceptron
 - Kernelized Perceptron
 - Mira
-### Regression models between given X and Y vectors. the following five approaches are computed and compared:
+### Regression models between given X and Y vectors. the following four approaches are computed and compared:
 - First degree polynomial
 - Second degree polynomial
 - Multiplicative inverse
